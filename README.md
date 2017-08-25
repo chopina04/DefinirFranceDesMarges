@@ -18,5 +18,5 @@ Un dossier vous permet de disposer des couches nécessaires à la création du c
 Procédure :<br>
 <li>Téléchargez le dossier DefinirFranceDesMarges.zip ;
 <li>Décompressez ce dossier ;
-<li>Dans le dossier décompressé, renouveler la même opération avec le dossier compressé Communes_2016_France_metropolitaine_Demographie_Cartogramme.7z ;
+<li>Dans le dossier décompressé, renouvelez la même opération avec le dossier compressé Communes_2016_France_metropolitaine_Demographie_Cartogramme.7z ;
 <li>Ouvrez le fichier Definir la France métropolitaine des marges - Données démographiques et résidentielles.qgs.
