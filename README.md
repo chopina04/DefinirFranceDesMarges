@@ -9,7 +9,7 @@ URL : https://www.insee.fr/fr/statistiques/2521169#consulter<br>
 Source de la couche vectorielle : GEOFLA® de l'IGN - Communes - Géographie 2016<br>
 URL : http://professionnels.ign.fr/geofla<br>
 
-Deuxième volet : revenus des méanages<br>
+Deuxième volet : revenus des ménages<br>
 
 Source des données : Base comparateur de territoires (INSEE) mise en ligne le 4 août 2017 et consultée le 26 août 2017<br>
 URL : https://www.insee.fr/fr/statistiques/2521169#consulter<br>
